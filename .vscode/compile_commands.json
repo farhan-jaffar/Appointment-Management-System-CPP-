@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "${workspaceFolder}",
+    "command": "C:/mingw64/bin/g++.exe -std=c++17 -Wall -Wextra -I. -I${workspaceFolder} -c ${file}",
+    "file": "${file}"
+  }
+] 
