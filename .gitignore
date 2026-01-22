@@ -1,2 +1,7 @@
-*.exe
+# Ignore VS Code configuration
+.vscode/
+compile_commands.json
+
+# Ignore build artifacts
 *.o
+*.exe
